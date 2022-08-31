@@ -1,3 +1,5 @@
-# WAL-G binary for CentOS 7
+# WAL-G binary for PostgreSQL/CentOS 7
 
-## Latest [WAL-G](https://github.com/wal-g/wal-g) binary for CentOS 7
+## Latest [WAL-G](https://github.com/wal-g/wal-g) PostgreSQL binary for CentOS 7
+
+### v2.0.1
