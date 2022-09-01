@@ -18,6 +18,7 @@ Just put the downloaded binary in `/usr/local/bin`:
 
 for example: ````mv wal-g-redis /usr/local/bin/wal-g````
 
-## Read:
+## Read
 - [WAL-G Docs](https://github.com/wal-g/wal-g/tree/master/docs)
 - [About WAL-G and tests](https://medium.com/@philyuchkoff/wal-g-953490c74b98)
+- [Разгоняем бэкап. Лекция Яндекса](https://habr.com/ru/company/yandex/blog/415817/)
