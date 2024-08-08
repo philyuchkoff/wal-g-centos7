@@ -1,9 +1,9 @@
-# WAL-G binary for PostgreSQL/CentOS 7
+# WAL-G binary for PostgreSQL/CentOS 8/9
 WAL-G is an archival restoration tool for PostgreSQL, MySQL/MariaDB, and MS SQL Server (beta for MongoDB and Redis).
 
-## Latest [WAL-G](https://github.com/wal-g/wal-g) binary for CentOS 7
+## Latest [WAL-G](https://github.com/wal-g/wal-g) binary for CentOS 8/9
 
-Here is a compiled binary latest version of WAL-G (3.0.0) for those databases:
+Here is a compiled binary latest version of WAL-G (3.0.3) for those databases:
 
 * PostgreSQL (`wal-g-pg`)
 * MySQL/MariaDB (`wal-g-mysql`)
